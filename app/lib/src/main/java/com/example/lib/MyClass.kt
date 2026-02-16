@@ -78,5 +78,5 @@ package com.example.lib
         val num1 = v?.toIntOrNull() ?: 0
         val div1: Double = num1.toDouble() / 1.0
         val div2: Double = num1.toDouble() /num1.toDouble()
-
+//Si
     }
