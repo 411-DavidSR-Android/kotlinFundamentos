@@ -82,4 +82,8 @@ package com.example.lib
         //Cambio pendiente
         //Cambio que se me olvido por tonto
         //Ultimo cambio de menso
+
+        val variable = ""
+        val testing= 2
+        val nose=1.0
     }
