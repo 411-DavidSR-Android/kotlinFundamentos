@@ -88,4 +88,5 @@ package com.example.lib
         val nose=1.0
         //Creando la funcionalidad de registrase en la app
         //Creando la conexion con la api
+        //Crenado la interfaz grafica de mi app
     }
